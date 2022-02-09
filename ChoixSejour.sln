@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoixSejour", "ChoixSejour\ChoixSejour.csproj", "{2EDD35A8-2925-4A04-91CC-231575736B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{8D420C22-B1AF-41B8-A116-04586EB946D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDD35A8-2925-4A04-91CC-231575736B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDD35A8-2925-4A04-91CC-231575736B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDD35A8-2925-4A04-91CC-231575736B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDD35A8-2925-4A04-91CC-231575736B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D420C22-B1AF-41B8-A116-04586EB946D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D420C22-B1AF-41B8-A116-04586EB946D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D420C22-B1AF-41B8-A116-04586EB946D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D420C22-B1AF-41B8-A116-04586EB946D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B81FF99-71DF-4A37-BC58-85F78F02307E}
+	EndGlobalSection
+EndGlobal
